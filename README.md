@@ -1,2 +1,4 @@
-# Cralwers_get_all_skins_of_HonorOfKing
+# Crawlers_get_all_skins_of_HonorOfKing
 python爬虫，爬取所有王者荣耀官网的皮肤高清图片
+另外一个是爬取所有英雄的小头像
+
